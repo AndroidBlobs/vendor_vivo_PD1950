@@ -1,0 +1,24 @@
+logInfoMask=0xFFFFFFFF
+overrideLogLevels=0x1F
+enableSensorHWSync=1
+multiCameraFrameSync=1
+enableSensorFpsMatch=1
+enableNCSService=TRUE
+multiCameraEnable=1
+exposeFullSizeForQCFA=FALSE
+enableResourceManager=TRUE
+enableJPEGEXIFApp2=1
+enableCustomAlgoAWB=TRUE
+customAlgoAWBName=com.vivo.stats.awb
+customAlgoAWBPath=/vendor/lib64/camera/components/
+customAlgoAWBSensor=s5kgw1s s5k3l6 s5k3p9 s5k3l6_2x
+enableCustomAlgoAWBEXIF=TRUE
+disableAFAlgoCHIOverload=TRUE
+enableCustomAlgoAF=TRUE
+customAlgoAFSensorName=s5k3l6_2x s5kgw1s s5k3l6 s5k3p9
+customAlgoAFName=com.vivo.stats.af
+customAlgoAFPath=/vendor/lib64/camera/components/
+disablePDAF=FALSE
+enableLDC=FALSE
+multiCameraJpeg=1
+
